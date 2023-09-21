@@ -12,7 +12,7 @@ This is a repo that I will use to learn github.
 
 
 **Bold Text** or __Bold Text__
-**Italic Text** or __Italic Text__
+*Italic Text* or _Italic Text_
 
 - Item 1
 - Item 2
